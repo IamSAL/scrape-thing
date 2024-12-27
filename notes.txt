@@ -1,0 +1,28 @@
+
+    const links = [
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2022.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2021.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2020.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2019.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2018.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-Januari-2016.aspx",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2014.aspx",
+    ];
+
+
+
+    const zipLinks = [
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2024.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202020.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20JANUARY%202021.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2022.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2023.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-JANUARI2016-rev2.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JAN_2017.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2018.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip",
+      "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202019.zip",
+    ];

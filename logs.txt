@@ -1,0 +1,675 @@
+
+==================================================
+New Scraping Session Started at 2024-12-27T13:04:20.174Z
+==================================================
+
+
+Error during scraping: targetLinkCount is not defined
+
+==================================================
+New Scraping Session Started at 2024-12-27T13:06:37.898Z
+==================================================
+
+[2024-12-27T13:08:27.503Z] Page 2:
+Title: Indonesian Economic and Financial Statistics - January 2024
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+-------------------
+[2024-12-27T13:08:46.119Z] Page 3:
+Title: Indonesian Financial Statistics - January 2023
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+-------------------
+[2024-12-27T13:09:07.454Z] Page 4:
+Title: Indonesian Financial Statistics - January 2022
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2022.aspx
+-------------------
+[2024-12-27T13:09:25.439Z] Page 5:
+Title: Indonesian Financial Statistics - January 2021
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2021.aspx
+-------------------
+[2024-12-27T13:09:43.356Z] Page 6:
+Title: Indonesian Financial Statistics - January 2020
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2020.aspx
+-------------------
+[2024-12-27T13:12:25.991Z] Page 9:
+Title: Indonesian Financial Statistics - January 2019
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2019.aspx
+-------------------
+[2024-12-27T13:12:47.184Z] Page 10:
+Title: Indonesian Financial Statistics - January 2018
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2018.aspx
+-------------------
+[2024-12-27T13:13:09.466Z] Page 11:
+Title: Indonesian Financial Statistics - January 2017
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+-------------------
+[2024-12-27T13:13:28.299Z] Page 12:
+Title: Indonesian Financial Statistics - January 2017
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+-------------------
+[2024-12-27T13:13:41.774Z] Page 13:
+Title: Indonesian Financial Statistics - January  2016
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-Januari-2016.aspx
+-------------------
+
+=== Scraping Completed at 2024-12-27T13:13:57.400Z ===
+Total pages processed: 14
+Total links found: 10
+
+=== Starting ZIP File Detection ===
+
+Error processing Indonesian Economic and Financial Statistics - January 2024: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+
+Error processing Indonesian Financial Statistics - January 2023: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+
+Error processing Indonesian Financial Statistics - January 2022: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2022.aspx
+
+Error processing Indonesian Financial Statistics - January 2021: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2021.aspx
+
+Error processing Indonesian Financial Statistics - January 2020: Navigation timeout of 30000 ms exceeded
+
+Error processing Indonesian Financial Statistics - January 2019: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2019.aspx
+
+Error processing Indonesian Financial Statistics - January 2018: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2018.aspx
+
+Error processing Indonesian Financial Statistics - January 2017: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+
+Error processing Indonesian Financial Statistics - January 2017: net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+
+Error processing Indonesian Financial Statistics - January  2016: Navigation timeout of 30000 ms exceeded
+
+=== ZIP File Detection Complete ===
+Total ZIP files found: 0
+
+=== Starting ZIP File Detection ===
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+Error processing undefined: Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: mandatory field missing at position 50
+
+=== ZIP File Detection Complete ===
+Total ZIP files found: 0
+
+=== Starting ZIP File Detection ===
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2022.aspx
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2021.aspx
+[2024-12-27T13:21:56.938Z] ZIP File Found:
+Title: SEKI January 2020.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202020.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2020.aspx
+-------------------
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2019.aspx
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2018.aspx
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+
+Error processing : net::ERR_ABORTED at https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-Januari-2016.aspx
+
+=== Starting ZIP File Detection ===
+[2024-12-27T13:23:07.494Z] ZIP File Found:
+Title: SEKI JANUARY 2024.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2024.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+-------------------
+[2024-12-27T13:23:07.496Z] ZIP File Found:
+Title: SEKI January 2020.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202020.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2020.aspx
+-------------------
+[2024-12-27T13:23:07.497Z] ZIP File Found:
+Title: SEKI JANUARY 2021.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20JANUARY%202021.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2021.aspx
+-------------------
+[2024-12-27T13:23:07.497Z] ZIP File Found:
+Title: SEKI JANUARY 2022.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2022.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2022.aspx
+-------------------
+[2024-12-27T13:23:07.497Z] ZIP File Found:
+Title: SEKI JANUARY 2023.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2023.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+-------------------
+[2024-12-27T13:23:10.866Z] ZIP File Found:
+Title: SEKI-JANUARI2016-rev2.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-JANUARI2016-rev2.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-Januari-2016.aspx
+-------------------
+[2024-12-27T13:23:14.218Z] ZIP File Found:
+Title: SEKI_JAN_2017.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JAN_2017.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+-------------------
+[2024-12-27T13:23:15.398Z] ZIP File Found:
+Title: SEKI_JANUARY_2018.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2018.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2018.aspx
+-------------------
+[2024-12-27T13:23:17.338Z] ZIP File Found:
+Title: SEKI-Januari2014-thpII.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2014.aspx
+-------------------
+[2024-12-27T13:23:22.587Z] ZIP File Found:
+Title: SEKI January 2019.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202019.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2019.aspx
+-------------------
+
+=== ZIP File Detection Complete ===
+Total ZIP files found: 10
+
+=== Starting ZIP File Downloads ===
+
+Error during batch download: Invalid URL
+
+=== Starting ZIP File Downloads ===
+[2024-12-27T13:30:04.155Z] Failed: SEKI_JANUARY_2024.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2024.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI%20January%202020.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202020.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI%20JANUARY%202021.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20JANUARY%202021.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI_JANUARY_2022.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2022.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI_JANUARY_2023.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2023.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI-JANUARI2016-rev2.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-JANUARI2016-rev2.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI_JAN_2017.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JAN_2017.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI_JANUARY_2018.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2018.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI-Januari2014-thpII.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip
+Error: https is not defined
+-------------------
+[2024-12-27T13:30:04.155Z] Failed: SEKI%20January%202019.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202019.zip
+Error: https is not defined
+-------------------
+
+=== Download Summary ===
+Total files: 10
+Successful: 0
+Skipped: 0
+Failed: 10
+
+=== Starting ZIP File Downloads ===
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI_JANUARY_2024.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2024.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI%20January%202020.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202020.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI%20JANUARY%202021.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20JANUARY%202021.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI_JANUARY_2022.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2022.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI_JANUARY_2023.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2023.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI-JANUARI2016-rev2.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-JANUARI2016-rev2.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI_JAN_2017.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JAN_2017.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI_JANUARY_2018.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2018.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI-Januari2014-thpII.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip
+Status: skipped
+-------------------
+[2024-12-27T13:31:00.548Z] Downloaded: SEKI%20January%202019.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202019.zip
+Status: skipped
+-------------------
+
+=== Download Summary ===
+Total files: 10
+Successful: 0
+Skipped: 10
+Failed: 0
+
+=== Starting ZIP File Downloads ===
+[2024-12-27T13:31:27.856Z] Failed: SEKI%20JANUARY%202021.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20JANUARY%202021.zip
+Error: read ECONNRESET
+-------------------
+[2024-12-27T13:31:27.856Z] Failed: SEKI_JANUARY_2024.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2024.zip
+Error: read ECONNRESET
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI%20January%202020.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202020.zip
+Status: success
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI_JANUARY_2022.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2022.zip
+Status: success
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI-JANUARI2016-rev2.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-JANUARI2016-rev2.zip
+Status: success
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI_JANUARY_2023.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2023.zip
+Status: success
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI-Januari2014-thpII.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip
+Status: success
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI_JANUARY_2018.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2018.zip
+Status: success
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI_JAN_2017.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JAN_2017.zip
+Status: success
+-------------------
+[2024-12-27T13:31:27.856Z] Downloaded: SEKI%20January%202019.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202019.zip
+Status: success
+-------------------
+
+=== Download Summary ===
+Total files: 10
+Successful: 8
+Skipped: 0
+Failed: 2
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:09:22.609Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:09:30.317Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:11:56.546Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:14:11.005Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:16:45.563Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:18:27.448Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:24:10.436Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:28:03.185Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:28:28.854Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:30:55.516Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:39:49.663Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:40:12.351Z
+==================================================
+
+[2024-12-27T14:42:29.276Z] Page 4:
+Title: Indonesian Economic and Financial Statistics - January 2024
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+-------------------
+[2024-12-27T14:42:44.637Z] Page 5:
+Title: Indonesian Financial Statistics - January 2023
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+-------------------
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:44:27.115Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:48:16.652Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:51:54.278Z
+==================================================
+
+[2024-12-27T14:54:58.395Z] Page 2:
+Title: Indonesian Economic and Financial Statistics - January 2024
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+-------------------
+[2024-12-27T14:55:14.369Z] Page 3:
+Title: Indonesian Financial Statistics - January 2023
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+-------------------
+
+==================================================
+New Scraping Session Started at 2024-12-27T14:57:36.316Z
+==================================================
+
+[2024-12-27T14:59:46.463Z] Page 2:
+Title: Indonesian Economic and Financial Statistics - January 2024
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+-------------------
+[2024-12-27T15:00:00.081Z] Page 3:
+Title: Indonesian Financial Statistics - January 2023
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+-------------------
+
+=== Scraping Completed at 2024-12-27T15:00:16.861Z ===
+Total pages processed: 4
+Total links found: 2
+
+=== Starting ZIP File Detection ===
+
+Error processing : Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: string value expected at position 12
+
+Error processing : Protocol error (Page.navigate): Invalid parameters Failed to deserialize params.url - BINDINGS: string value expected at position 12
+
+=== ZIP File Detection Complete ===
+Total ZIP files found: 0
+
+==================================================
+New Scraping Session Started at 2024-12-27T15:04:42.364Z
+==================================================
+
+
+Error during scraping: Runtime.callFunctionOn timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+
+==================================================
+New Scraping Session Started at 2024-12-27T15:11:16.338Z
+==================================================
+
+[2024-12-27T15:13:34.838Z] Page 3:
+Title: Indonesian Economic and Financial Statistics - January 2024
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+-------------------
+[2024-12-27T15:13:47.644Z] Page 4:
+Title: Indonesian Financial Statistics - January 2023
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+-------------------
+[2024-12-27T15:14:01.367Z] Page 5:
+Title: Indonesian Financial Statistics - January 2022
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2022.aspx
+-------------------
+[2024-12-27T15:14:18.327Z] Page 6:
+Title: Indonesian Financial Statistics - January 2021
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2021.aspx
+-------------------
+[2024-12-27T15:14:35.484Z] Page 7:
+Title: Indonesian Financial Statistics - January 2020
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2020.aspx
+-------------------
+[2024-12-27T15:15:13.817Z] Page 9:
+Title: Indonesian Financial Statistics - January 2019
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2019.aspx
+-------------------
+[2024-12-27T15:15:31.933Z] Page 10:
+Title: Indonesian Financial Statistics - January 2018
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2018.aspx
+-------------------
+[2024-12-27T15:15:49.156Z] Page 11:
+Title: Indonesian Financial Statistics - January 2017
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+-------------------
+[2024-12-27T15:16:05.623Z] Page 12:
+Title: Indonesian Financial Statistics - January  2016
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-Januari-2016.aspx
+-------------------
+[2024-12-27T15:16:21.482Z] Page 13:
+Title: Indonesian Financial Statistics - January 2015​
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2015.aspx
+-------------------
+[2024-12-27T15:16:58.476Z] Page 15:
+Title: Indonesian Financial Statistics - January 2014
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2014.aspx
+-------------------
+[2024-12-27T15:17:16.572Z] Page 16:
+Title: Indonesian Financial Statistics - January 2014
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2014.aspx
+-------------------
+[2024-12-27T15:17:29.000Z] Page 17:
+Title: Indonesian Financial Statistics - Januari 2013
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki-201301.aspx
+-------------------
+[2024-12-27T15:17:44.423Z] Page 18:
+Title: Indonesian Financial Statistics - January 2012
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0112.aspx
+-------------------
+[2024-12-27T15:18:01.098Z] Page 19:
+Title: Indonesian Financial Statistics - January 2011
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0111.aspx
+-------------------
+[2024-12-27T15:18:19.174Z] Page 20:
+Title: Indonesian Financial Statistics - January 2010
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI_0110.aspx
+-------------------
+[2024-12-27T15:18:57.672Z] Page 22:
+Title: Indonesian Financial Statistics - January 2009
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0109.aspx
+-------------------
+[2024-12-27T15:19:16.298Z] Page 23:
+Title: Indonesian Financial Statistics - January 2009
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0109.aspx
+-------------------
+[2024-12-27T15:19:30.989Z] Page 24:
+Title: Indonesia Financial Statistics January 2008
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/jan-08.aspx
+-------------------
+[2024-12-27T15:19:45.346Z] Page 25:
+Title: Indonesian Financial Statistics January 2007
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0107.aspx
+-------------------
+
+=== Scraping Completed at 2024-12-27T15:20:04.473Z ===
+Total pages processed: 26
+Total links found: 20
+
+=== Starting ZIP File Detection ===
+[2024-12-27T15:21:22.970Z] ZIP File Found:
+Title: SEKI JANUARY 2023.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2023.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2023.aspx
+-------------------
+[2024-12-27T15:21:22.971Z] ZIP File Found:
+Title: SEKI JANUARY 2022.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2022.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2022.aspx
+-------------------
+[2024-12-27T15:21:22.971Z] ZIP File Found:
+Title: SEKI JANUARY 2024.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2024.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2024.aspx
+-------------------
+[2024-12-27T15:21:22.972Z] ZIP File Found:
+Title: SEKI JANUARY 2021.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20JANUARY%202021.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2021.aspx
+-------------------
+[2024-12-27T15:21:22.972Z] ZIP File Found:
+Title: SEKI January 2020.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202020.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2020.aspx
+-------------------
+[2024-12-27T15:21:27.223Z] ZIP File Found:
+Title: SEKI January 2019.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI%20January%202019.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARY-2019.aspx
+-------------------
+[2024-12-27T15:21:32.124Z] ZIP File Found:
+Title: SEKI-JANUARI2015.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-JANUARI2015.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-JANUARI-2015.aspx
+-------------------
+[2024-12-27T15:21:32.208Z] ZIP File Found:
+Title: SEKI_JAN_2017.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JAN_2017.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2017.aspx
+-------------------
+[2024-12-27T15:21:33.792Z] ZIP File Found:
+Title: SEKI-JANUARI2016-rev2.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-JANUARI2016-rev2.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-Januari-2016.aspx
+-------------------
+[2024-12-27T15:21:38.473Z] ZIP File Found:
+Title: SEKI_JANUARY_2018.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI_JANUARY_2018.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2018.aspx
+-------------------
+[2024-12-27T15:21:40.898Z] ZIP File Found:
+Title: SEKI-Januari2014-thpII.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2014.aspx
+-------------------
+[2024-12-27T15:21:41.185Z] ZIP File Found:
+Title: seki-jan2012-rev2
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/fe491e407523403fa837c37ac31afa66SEKIJanuari2012rev2.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0112.aspx
+-------------------
+[2024-12-27T15:21:41.481Z] ZIP File Found:
+Title: SEKI-Januari2014-thpII.zip
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI-January-2014.aspx
+-------------------
+[2024-12-27T15:21:47.353Z] ZIP File Found:
+Title: seki-jan11-rev
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/d07ac558474a470daa3458e3da2bd0afMrJan12.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0111.aspx
+-------------------
+[2024-12-27T15:21:52.374Z] ZIP File Found:
+Title: seki-201301-thp2
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/9630612624f8471dba0cf3ed4b0153beSEKI201301thp2.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki-201301.aspx
+-------------------
+[2024-12-27T15:21:55.437Z] ZIP File Found:
+Title: Indonesian Financial Statistics January 2007
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/1fb90300ac464158b7389f5d69c63e53MR_Jan07.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0107.aspx
+-------------------
+[2024-12-27T15:21:56.701Z] ZIP File Found:
+Title: Indonesia Financial Statistics January 2008
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/e6e004753a09452aaebf913115a66a9eMrJan08.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/jan-08.aspx
+-------------------
+[2024-12-27T15:21:57.297Z] ZIP File Found:
+Title: SEKI-Jan09
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/ebb0734484f04384b31006e2ea2dcebdMrJan091.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0109.aspx
+-------------------
+[2024-12-27T15:21:57.658Z] ZIP File Found:
+Title: SEKI-Jan09
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/ebb0734484f04384b31006e2ea2dcebdMrJan091.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/seki_0109.aspx
+-------------------
+[2024-12-27T15:22:01.327Z] ZIP File Found:
+Title: Mr-jan10
+URL: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/a60ca56789b74c5ba5ee44972cca9aafMrJan11.zip
+From Page: https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Pages/SEKI_0110.aspx
+-------------------
+
+=== ZIP File Detection Complete ===
+Total ZIP files found: 20
+
+==================================================
+New Scraping Session Started at 2024-12-27T15:29:18.305Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T15:29:32.491Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T15:32:34.644Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T15:33:17.016Z
+==================================================
+
+
+==================================================
+New Scraping Session Started at 2024-12-27T15:38:12.109Z
+==================================================
+
