@@ -62,3 +62,7 @@ public/
 
 # Windows files
 Thumbs.db
+
+.zip
+
+downloads/
