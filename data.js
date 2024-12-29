@@ -47,10 +47,7 @@ const zipFileLinks = [
     title: "SEKI January 2012",
     url: "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/fe491e407523403fa837c37ac31afa66SEKIJanuari2012rev2.zip",
   },
-  {
-    title: "SEKI January 2014",
-    url: "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/SEKI-Januari2014-thpII.zip",
-  },
+
   {
     title: "SEKI January 2012",
     url: "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/d07ac558474a470daa3458e3da2bd0afMrJan12.zip",
@@ -71,10 +68,7 @@ const zipFileLinks = [
     title: "SEKI January 2009",
     url: "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/ebb0734484f04384b31006e2ea2dcebdMrJan091.zip",
   },
-  {
-    title: "SEKI January 2009",
-    url: "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/ebb0734484f04384b31006e2ea2dcebdMrJan091.zip",
-  },
+
   {
     title: "SEKI January 2010",
     url: "https://www.bi.go.id/en/statistik/ekonomi-keuangan/seki/Documents/a60ca56789b74c5ba5ee44972cca9aafMrJan11.zip",

@@ -23,9 +23,7 @@ function downloadFile(url, filename) {
     https
       .get(url, (response) => {
         if (response.statusCode !== 200) {
-          reject(
-            new Error(`Failed to download ${filename}: ${response.statusCode}`)
-          );
+          console.log(`Failed to download: ${filename}`, response.statusCode);
           return;
         }
 
@@ -38,8 +36,9 @@ function downloadFile(url, filename) {
         });
       })
       .on("error", (err) => {
-        fs.unlink(filePath, () => {}); // Delete partially downloaded file
-        reject(err);
+        fs.unlink(filePath, () => { }); // Delete partially downloaded file
+        console.log(`Failed to download: ${filename}`);
+        // reject(err);
       });
   });
 }
@@ -52,7 +51,26 @@ async function downloadZipFilesBatch(zipLinks) {
   return Promise.all(downloadPromises);
 }
 
+
+async function downloadZipFilesSingle(zipLinks) {
+  const results = [];
+  console.log("Downloading ", zipLinks.length, " files");
+  for (const link of zipLinks) {
+    const filename =
+      link.title.replace(/[^a-z0-9]/gi, "_").toLowerCase() + ".zip";
+   
+    try {
+      const result = await downloadFile(link.url, filename);
+       results.push(result);
+    } catch (e) {
+      // continue;
+   }
+  }
+  return results;
+}
+
 module.exports = {
   downloadFile,
   downloadZipFilesBatch,
+  downloadZipFilesSingle,
 };

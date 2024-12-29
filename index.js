@@ -1,6 +1,9 @@
 //@ts-check
 const { scrapeJanuaryLinks, getZipLinks } = require("./scraper");
-const { downloadZipFilesBatch } = require("./downloader");
+const {
+  downloadZipFilesBatch,
+  downloadZipFilesSingle,
+} = require("./downloader");
 const { writeSessionStart } = require("./helpers");
 const { zipFileLinks } = require("./data");
 (async () => {
@@ -15,7 +18,7 @@ const { zipFileLinks } = require("./data");
     // const downloadResults = await downloadZipFilesBatch(zipLinks);
     // console.log(downloadResults);
 
-      const downloadResults = await downloadZipFilesBatch(zipFileLinks);
+      const downloadResults = await downloadZipFilesSingle(zipFileLinks);
       console.log(downloadResults);
   } catch (error) {
     console.error("Script failed:", error);
